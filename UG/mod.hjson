@@ -1,6 +1,6 @@
 name: "UpgradedGame",
-displayName: "[#00ffff]UpgradedGame",
-author: "System",
-description: "Конкретно мощный модуль для упрощения прохождения кампании",
-version: 1.5,
+displayName: "UpgradedGame",
+author: "BlackFox404",
+description: "Конкретно мощный модуль для упрощения прохождения кампании и не только.",
+version: 1.8,
 minGameVersion: 126.2
