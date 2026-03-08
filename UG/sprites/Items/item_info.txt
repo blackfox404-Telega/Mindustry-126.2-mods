@@ -1,0 +1,2 @@
+for items images need separate directory.
+for code(json/hjson) items - also.
