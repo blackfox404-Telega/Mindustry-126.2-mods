@@ -1,0 +1,6 @@
+name: "UpgradedGame",
+displayName: "[#00ffff]UpgradedGame",
+author: "System",
+description: "Конкретно мощный модуль для упрощения прохождения кампании",
+version: 1.5,
+minGameVersion: 126.2
