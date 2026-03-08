@@ -1,0 +1,7 @@
+walls - it standard blocks. very easy in creating.
+low parameters. only 1 sprite: wall.png.
+size for walls:
+1×1 = 32×32px
+2×2 = 64×64px
+3×3 = 96×96px
+4×4 = 128×128px.
