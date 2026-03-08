@@ -1,0 +1,4 @@
+logical blocks - is blocks for processors, memory cells and messages & buttons(switchers)
+optional is sprites need for switchers, but processors necessarily need sprites.
+for switchers need 2 sprites: Switch-on and Switch-off.
+it need for 2 state button: enabled & disabled.
