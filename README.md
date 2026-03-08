@@ -5,3 +5,6 @@
 <hr>
 <i>all modifications belong to author of the repository.</i>
 <b><u>!READ LICENCE!</u></b>
+<hr>
+read my <b><a href='https://blackfox404-telega.github.io'>INFO</a></b> for see more about me information.
+here have links on my Discord and Telegram.
