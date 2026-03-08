@@ -1,2 +1,0 @@
-for productions need sprites: DistNane-top.png and DistName-bottom.png.
-for some objects need additional files.
