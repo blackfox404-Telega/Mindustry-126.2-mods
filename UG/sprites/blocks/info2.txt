@@ -1,0 +1,4 @@
+exapmle all paths:
+block: /sprites/blocks/block1.png
+code block: /content/blocks/block1.hjson
+it need for game detection all files.
