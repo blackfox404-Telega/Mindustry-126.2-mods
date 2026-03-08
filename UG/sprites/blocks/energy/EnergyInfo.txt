@@ -1,0 +1,4 @@
+check metadata all sprited.
+for block 1×1 = 32×32px.
+for 2×2 - 64×64px.
+for example - +1 block = +32px for sprite size.
