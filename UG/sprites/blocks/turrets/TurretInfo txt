@@ -1,0 +1,6 @@
+for turrets need many files:
+base, turret, contours(heat).
+in one turret have 3 files:
+1. turret.png - general turret sprite.
+2. turret-base.png - down part turret, him base.
+3. turret-heat.png - contour turret. active only in shot time.
