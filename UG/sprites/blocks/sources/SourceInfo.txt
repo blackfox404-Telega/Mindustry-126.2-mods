@@ -1,4 +1,0 @@
-sources - it blocks-sources for resources.
-sources support two types:
-1. Items - generate items(copper, lead...)
-2. Liquids - generate only liquids(water, oil...)
