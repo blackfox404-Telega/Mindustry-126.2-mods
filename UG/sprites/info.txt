@@ -1,0 +1,3 @@
+image name:
+your_object.hjson -> your_sprite.png (allow)
+(name sprite and name code must be the same)
